@@ -1,5 +1,16 @@
 # CoreJavaConceptHub
 
+
+
+## Exception_Management
+
+Explore Java programs showcasing structured exception handling to effectively manage exceptional conditions in your code.
+
+## Multi_Threading
+
+Dive into Java programs illustrating various multithreading concepts, providing insights into thread creation, synchronization, and lifecycle management.
+
+
 ## OOP Concepts in Java 🚀
 
 This repository contains Java programs illustrating various Object-Oriented Programming (OOP) concepts. Each program focuses on a specific concept to help you understand and implement OOP principles in Java.
@@ -24,4 +35,11 @@ This repository contains Java programs illustrating various Object-Oriented Prog
 17. [TribonacciSeries](TribonacciSeries.java) - Generates and prints the Tribonacci series. 🚀
 18. [TypeCastingExample](TypeCastingExample.java) - Shows examples of type casting in Java. 🚀
 19. [VariableDeclarationExample](VariableDeclarationExample.java) - Illustrates variable declaration and initialization in Java. 🚀
+20. [CovariantReturnType](CovariantReturnType.java) - classes 🐾 Implemented CovariantReturnType in Java showcasing the use of covariant return types.🚀
+21. [ExceptionHandling](ExceptionHandling.java) - 🚨 Add ExceptionHandling class with try-catch-finally blocks.🚀
+22. [FileHandling](FileHandling.java) - 📂 Implement FileHandling for basic file operations in Java.🚀
+23. [InterfaceVsAbstractClass](InterfaceVsAbstractClass.java) - Created InterfaceVsAbstractClass in Java to illustrate the use of abstract classes and interfaces.🚀
+24. [Multithreading ](Multithreading .java) - 
+🚥 Implement MultiThreading examples in Java. 🚀
+25. [VarArgs](VarArgs.java) - ✨ Implement VarArgs example in Java.🚀
 💻📚
