@@ -30,5 +30,24 @@
 - ⏳ Add Java code illustrating Java Time Duration operations
 - [View Code](Datetime_Operations/JavaTimeDuration.java)
 
-0
+## DateDifferenceCalculator.java
+
+- 📅 Implemented DateDifferenceCalculator class for calculating the difference...
+- [View Code](Datetime_Operations/DateDifferenceCalculator.java)
+
+## Day.java
+
+- 📅 Added Day enum for representing days of the week.
+- [View Code](Datetime_Operations/Day.java)
+
+## DayType.java
+
+- 📅 Added DayType enum for categorizing days into weekday and weekend.
+- [View Code](Datetime_Operations/DayType.java)
+
+## EnhancedDay.java
+
+- Create EnhancedDay.java
+- [View Code](Datetime_Operations/EnhancedDay.java)
+
 Happy coding! 🚀
