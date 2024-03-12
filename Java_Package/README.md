@@ -1,4 +1,4 @@
-# Java_Pakage
+# Java_Package
 
 ## MyPackageClass.java
 
