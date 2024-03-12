@@ -2,36 +2,65 @@
 
 This repository contains a set of Java code examples illustrating various concepts and techniques related to multithreading. Each Java class demonstrates specific scenarios and methods related to managing and synchronizing threads.
 
+# Executor_Services
+
+## CallableExample.java
+## FixedThreadPool.java
+## SingleThreadExecutor.java
+
+
 ## List of Multithreading Classes
 
 1. **Multithreading.java**
-   - Consolidates multiple multithreading examples in the `Multithreading` class.
+   - 🚥 Consolidate Multithreading examples in Multithreading class
+   - [View Code](Multithreading.java)
 
 2. **MultithreadingCorruption.java**
-   - Illustrates thread safety issues and demonstrates how synchronization can prevent data corruption in multithreaded environments.
+   - 🔒 Implement MultithreadingCorruption example to illustrate thread safety issues
+   - [View Code](MultithreadingCorruption.java)
 
 3. **MultithreadingMethod.java**
-   - Showcases various methods available in the `Thread` class for managing threads, including `sleep()`, `yield()`, and `join()`.
+   - 🚀 Implement MultithreadingMethod showcasing various Thread class methods
+   - [View Code](MultithreadingMethod.java)
 
 4. **SuspendResume.java**
-   - Implements the `suspend()` and `resume()` methods to showcase thread suspension and resumption. Note: These methods are deprecated and not recommended for modern use.
+   - 🚦 Implement SuspendResume example for thread suspension and resumption
+   - [View Code](SuspendResume.java)
 
 5. **SynchronizationExample.java**
-   - Demonstrates thread-safe operations using synchronization to avoid race conditions.
+   - 🔒 Implement SynchronizationExample to showcase thread-safe operations
+   - [View Code](SynchronizationExample.java)
 
 6. **SynchronizationWithStaticMethod.java**
-   - Illustrates synchronization with static methods to showcase coordinated access to shared resources.
+   - 🔒 Implement SynchronizationWithStaticMethod to showcase synchronization with static methods
+   - [View Code](SynchronizationWithStaticMethod.java)
 
 7. **SynchronizedBlockExample.java**
-   - Highlights synchronization using a synchronized block to ensure thread-safe incrementing of a counter.
+   - 🔒 Implement SynchronizedBlockExample to showcase synchronization with synchronized blocks
+   - [View Code](SynchronizedBlockExample.java)
 
 8. **SynchronizedExample.java**
-   - Implements synchronization with methods to ensure safe incrementing of a counter by multiple threads.
+   - 🔒 Implement SynchronizedExample to showcase synchronization with methods
+   - [View Code](SynchronizedExample.java)
 
 9. **ThreadLifecycle.java**
-   - Illustrates the various states a thread goes through in its lifecycle, including `New`, `Runnable`, `Blocked`, `Waiting`, `Timed Waiting`, and `Terminated`.
+   - 🔄 Implement ThreadLifecycle example showcasing different thread states
+   - [View Code](ThreadLifecycle.java)
 
 10. **ThreadScheduler.java**
-    - Showcases thread scheduling with different thread priorities using the `setPriority()` method.
+    - 🔄 Implement ThreadScheduler example showcasing thread priorities and scheduling
+    - [View Code](ThreadScheduler.java)
 
-Feel free to explore each example for a detailed understanding of the covered concepts. Happy coding!
+11. **ThreadExample.java**
+    - 🧵 Implemented ThreadExample class for multithreading demonstration.
+    - [View Code](ThreadExample.java)
+
+12. **ThreadExamples.java**
+    - 🔧 Implemented ThreadExamples class for demonstrating thread lifecycle.
+    - [View Code](ThreadExamples.java)
+
+13. **TrafficSignalSimulation.java**
+    - 🚥 Implemented TrafficSignalSimulation to simulate traffic signal behavior.
+    - [View Code](TrafficSignalSimulation.java)
+
+Happy coding!
