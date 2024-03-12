@@ -1,4 +1,4 @@
-# Recent Java Class Additions
+# Functional_Programming
 
 ## ConvertStringsAndCalculateSquares.java
 ✨ Added ConvertStringsAndCalculateSquares class for computing the sum...
